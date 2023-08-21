@@ -1,4 +1,4 @@
-# Código para Análise de Dados Eleitorais
+# Código para Análise de Dados Eleitorais (Não Acabei )
 
 Este repositório contém um script em Python projetado para analisar e combinar dados eleitorais de duas fontes diferentes. O objetivo do código é proporcionar insights valiosos a partir dos dados eleitorais, permitindo uma análise aprofundada das informações. A biblioteca `pandas` é utilizada para manipulação e processamento dos dados.
 
