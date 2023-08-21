@@ -40,4 +40,5 @@ Este código em Python utiliza a biblioteca Pandas para realizar algumas operaç
 4. **Manipulação de Entrada do Usuário:**
    Pode ser útil adicionar tratamento de entrada do usuário, como tornar a entrada do nome do candidato em letras maiúsculas ou minúsculas para evitar discrepâncias de caixa.
 
-Lembre-se de que a exploração e manipulação de dados com Pandas podem se tornar mais complexas à medida que você avança para cenários de dados mais detalhados e exigentes.
+5. **editei a tabela para ter poucas linhas e facilitar o trabalho na hora de fazer o codigo**
+   Eu fiz uma edição na tabela para reduzir o número de linhas, o que torna mais fácil trabalhar com o código. A tabela original poderia ter muitas linhas, o que tornaria o processo mais lento e complicado. Ao diminuir o tamanho da tabela, conseguimos entender o funcionamento do código de maneira mais rápida e clara.
