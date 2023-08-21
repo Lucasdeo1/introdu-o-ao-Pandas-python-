@@ -25,7 +25,7 @@ if not candidato_df.empty:
     qt_eleitores = candidato_df.iloc[0]['QT_ELEITORES']
     qt_eleitores = candidato_df.iloc[0]['QT_ELEITORES']
     
-    print(f'O candidato {candidato} teve {qt_eleitores} eleitores.')
+    print(f'O candidato {candidato} teve {qt_eleitores} mil eleitores.')
 else:
     print(f'O candidato {candidato} não foi encontrado.')
 
