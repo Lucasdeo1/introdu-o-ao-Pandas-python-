@@ -29,7 +29,7 @@ Este código em Python utiliza a biblioteca Pandas para realizar algumas operaç
 
 **Melhorias Possíveis:**
 1. **Verificação de Correspondência de Dados:**
-   Seria ideal verificar se há uma coluna comum entre as tabelas para realizar uma junção (merge) mais precisa, em vez de apenas concatenar. Isso garantiria que os dados correspondessem corretamente.
+   Seria ideal verificar se há uma coluna comum entre as tabelas para realizar uma junção (merge) mais precisa, em vez de apenas concatenar. Isso garantiria que os dados correspondessem corretamente.(estou estudando essa possibilidade)
 
 2. **Manipulação de Dados Ausentes:**
    Em vez de substituir valores NaN por '-', você poderia explorar opções como preencher valores ausentes com algum valor padrão ou estratégia de imputação mais adequada.
