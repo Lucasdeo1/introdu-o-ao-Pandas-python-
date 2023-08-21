@@ -21,19 +21,6 @@ tabela = pd.read_csv('C:/Users/adm/OneDrive/Área de Trabalho/task/eleitorado/pe
 tabela2 = pd.read_csv('C:/Users/adm/OneDrive/Área de Trabalho/task/resultados/resultadosSP_turno_1.csv', sep=';', encoding='ISO-8859-1')
 ```
 
-3. Combinando os Dados:
-   O código utiliza o método `pd.merge()` para combinar os dois conjuntos de dados com base em colunas comuns. Isso permite a criação de um novo conjunto de dados combinado que contém informações do perfil do eleitorado e os resultados eleitorais.
-
-```python
-tabelaMerge = pd.merge(tabela, tabela2)
-```
-
-4. Visualização dos Dados Combinados:
-   Após a combinação dos dados, o código imprime o resultado para análise. Isso pode incluir informações sobre o perfil do eleitorado juntamente com os resultados eleitorais, permitindo uma visão mais completa dos dados.
-
-```python
-print(tabelaMerge)
-```
 
 ## Como Usar
 
