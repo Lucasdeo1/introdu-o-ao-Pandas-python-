@@ -23,7 +23,7 @@ candidato_df = tabelasJuntadas[tabelasJuntadas['NM_VOTAVEL'] == candidato]
 
 if not candidato_df.empty:
     qt_eleitores = candidato_df.iloc[0]['QT_ELEITORES']
-    qt_eleitores = candidato_df.iloc[0]['QT_ELEITORES']
+    
     
     print(f'O candidato {candidato} teve {qt_eleitores} mil eleitores.')
 else:
